@@ -1,0 +1,12 @@
+npm init --> to start or npm init -y
+packages --> npm install package name
+npm install -> this can regenerate (package.lock.json) --> installs the modules folder
+
+git --> version control software
+github --> version control by microsoft
+git init --> to initialize a repository
+git status --> show current details
+.gitignore --> file to put in items you don't want to add
+
+toptal language e.g (NodeJS) --> default ignore files/folders
+

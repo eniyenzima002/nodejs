@@ -10,3 +10,12 @@ git status --> show current details
 
 toptal language e.g (NodeJS) --> default ignore files/folders
 
+git add .
+git commit -m "message..."
+--> If you don't have username and email you can see what commands needed to config them.
+
+git log --> to see commit history
+
+Go to github
+Create a new repository
+

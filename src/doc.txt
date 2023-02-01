@@ -19,3 +19,30 @@ git log --> to see commit history
 Go to github
 Create a new repository
 
+How to clone
+git clone --- URL
+
+cd into folder
+
+********************************
+
+EXPRESS
+
+npm install express
+
+A quick json validator
+jsonlint.com
+
+provide body to api
+select --> body - raw & json
+
+Add middleware
+ app.use(express.json())
+ app.use(express.urlencoded({ extended: true }))
+
+ Install mongoose
+
+ .env - file
+ in install dotenv --> in order to read from this file
+ require --> dotenv and then --> dotenv.config();
+
